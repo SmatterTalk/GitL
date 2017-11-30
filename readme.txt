@@ -6,3 +6,6 @@ Git is free software
 
 Git is a distributed version contril system
 Git is free sofrware distrubuted under the GPL
+
+Git has a mutable index called stage
+
